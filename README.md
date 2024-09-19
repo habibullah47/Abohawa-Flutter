@@ -1,12 +1,13 @@
 #Todo:
 // I will create this app based on this list. And I will take help from AI, Insha'Allah
+[] prompt: Now how to get data on my cityscreen.
+Getting Location:
 [x] Make sure app is running successfully
 [x] get location api or dependencies
 [x] get current location on loading screen
     [x] Make sure you take user permissions for location. Mind it that it could be challenging for web app.
 
 ---
-MORE:
 [x] prompt: Make critics for this file main.dart as enterprise app (or make comparison)
 
 
