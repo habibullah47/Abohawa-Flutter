@@ -1,5 +1,6 @@
 #Todo:
 // I will create this app based on this list. And I will take help from AI, Insha'Allah
+[] Why crash the app when I remove the try and catch?
 [] prompt: Now how to get data on my cityscreen.
 Getting Location:
 [x] Make sure app is running successfully
